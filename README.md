@@ -98,7 +98,7 @@ The model was evaluated using:
 ### How to Run Locally:
 1. **Clone the repository**
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/kalebb1/Loan-Approval-Prediction
    cd loan-approval-predictor
 
 2. ### Access using a website:
